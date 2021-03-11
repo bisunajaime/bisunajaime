@@ -1,4 +1,9 @@
-### Hi there 👋
+<a href="https://github.com/jose-bamboo/jose-bamboo">
+  <img align="center" src="/cover.png" />
+</a>
+
+### Hi there 👋 I'm Jaime Bisuña
+#### I do Software Development and UI/UX Design with Figma
 
 - 🔭 I’m currently working on a System Defect Tracker using Spring Boot
 - 🌱 I’m currently learning Java, Design Patterns, OOP, and many more
