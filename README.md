@@ -1,5 +1,5 @@
 <a href="https://github.com/jose-bamboo/jose-bamboo">
-  <img align="center" src="/cover_pic.png" />
+  <img align="center" src="/coverpic.png" />
 </a>
 
 ### Hi there 👋 I'm Jaime Bisuña
