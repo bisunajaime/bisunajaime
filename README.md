@@ -11,7 +11,13 @@
 - ⚡ Fun fact: I love baking bread 🍞 on my free time, kneading sure does take away stress
 
 <a href="https://github.com/jose-bamboo/jose-bamboo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jose-bamboo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jaime's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jose-bamboo&show_icons=true&line_height=27&theme=dracula" alt="Jaime's GitHub Stats" />
+  </a>
+<a href="https://github.com/jose-bamboo/jose-bamboo">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-bamboo&layout=compact&theme=dracula" alt="Top Languages" />
+</a>
+  
+  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-bamboo&layout=compact&theme=dracula)](https://github.com/jose-bamboo/jose-bamboo) -->
 
 <p></p>
   
