@@ -12,7 +12,14 @@
 
 <a href="https://github.com/jose-bamboo/jose-bamboo">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jose-bamboo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jaime's GitHub Stats" />
+
+<p></p>
+  
+<a href="https://bisunajaime.netlify.app">
+  <img align="center" src="/footer.png" />
+</a>
 <!--
+
 **jose-bamboo/jose-bamboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
