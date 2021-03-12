@@ -15,7 +15,7 @@
 
 <p></p>
   
-<a href="https://bisunajaime.netlify.app">
+<a href="https://bisunajaime.netlify.app" target="_blank">
   <img align="center" src="/footer.png" />
 </a>
 <!--
