@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on a System Defect Tracker using Spring Boot
 - 🌱 I’m currently learning Java, Design Patterns, OOP, and many more
-- 🧠 Some of the technologies I am interested in are the following:
+- 🧠 Some of the technologies I am interested in learning are as follows:
   - AWS
   - GCP
   - Cloud Tech
