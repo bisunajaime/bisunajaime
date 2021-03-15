@@ -7,15 +7,6 @@
 
 - 🔭 I’m currently working on a System Defect Tracker using Spring Boot
 - 🌱 I’m currently learning Java, Design Patterns, OOP, and many more
-- 🧠 Some of the technologies I am interested in learning are as follows:
-  - AWS
-  - GCP
-  - Cloud Tech
-  - Docker
-  - IoT
-  - React/React Native
-  - Python (Flask, Django, etc.)
-  - and many more...
 - 🤔 I’m looking for help with understanding some of the deeper concepts of React (e.g. Hooks, Functional vs Class Components, etc.)
 - ⚡ Fun fact: I love baking bread 🍞 on my free time, kneading sure does take away stress
 
