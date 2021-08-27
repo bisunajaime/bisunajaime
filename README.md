@@ -1,5 +1,5 @@
 <a href="https://github.com/jose-bamboo/jose-bamboo">
-  <img align="center" src="/coverpic.png" />
+  <img align="center" src="/cover.png" />
 </a>
 
 ### Hi there 👋 I'm Jaime Bisuña
@@ -22,7 +22,7 @@
 <p></p>
   
 <a href="https://bisunajaime.netlify.app" target="_blank">
-  <img align="center" src="/footer.png" />
+  <img align="center" src="/portfolio.png" />
 </a>
 <!--
 
