@@ -5,10 +5,9 @@
 ### Hi there 👋 I'm Jaime Bisuña
 #### I do Software Development and UI/UX Design with Figma
 
-- 🔭 I’m currently working on a System Defect Tracker using Spring Boot
-- 🌱 I’m currently learning Java, Design Patterns, OOP, and many more
-- 🤔 I’m looking for help with understanding some of the deeper concepts of React (e.g. Hooks, Functional vs Class Components, etc.)
-- ⚡ Fun fact: I love baking bread 🍞 on my free time, kneading sure does take away stress
+- 🔭 I’m currently working as a Flutter Developer
+- 🌱 I’m currently learning Coding Best Practices, SOLID, OOP, System Design, Cloud, and many more
+- ⚡ Fun fact: I love baking pizza, especially during my free time, kneading sure does take away stress
 
 <a href="https://github.com/jose-bamboo/jose-bamboo">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jose-bamboo&show_icons=true&line_height=27&theme=dracula" alt="Jaime's GitHub Stats" />
