@@ -6,7 +6,7 @@
 #### I do Software Development and UI/UX Design with Figma
 
 - 🔭 I’m currently working as a Flutter Developer
-- 🌱 I’m currently learning Coding Best Practices, SOLID, OOP, System Design, Cloud, and many more
+- 🌱 I’m currently learning Coding Best Practices, SOLID, OOP, System Design, UX, Cloud, and many more
 - ⚡ Fun fact: I love baking pizza, especially during my free time, kneading sure does take away stress
 
 <a href="https://github.com/jose-bamboo/jose-bamboo">
