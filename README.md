@@ -1,3 +1,7 @@
+<a href="https://bisunajaime.netlify.app" target="_blank">
+  <img align="center" src="/footer.png" />
+</a>
+<p></p>
 <a href="https://github.com/jose-bamboo/jose-bamboo">
   <img align="center" src="/coverpic.png" />
 </a>
@@ -18,11 +22,6 @@
   
   <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-bamboo&layout=compact&theme=dracula)](https://github.com/jose-bamboo/jose-bamboo) -->
 
-<p></p>
-  
-<a href="https://bisunajaime.netlify.app" target="_blank">
-  <img align="center" src="/footer.png" />
-</a>
 <!--
 
 **jose-bamboo/jose-bamboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
