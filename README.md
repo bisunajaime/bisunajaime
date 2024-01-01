@@ -9,7 +9,7 @@
 ### Hi there 👋 I'm Jaime Bisuña
 #### I do Software Development and UI/UX Design with Figma
 
-- 🔭 I’m currently working as a Flutter Developer
+- 🔭 I’m currently working as a Full Stack Developer
 - 🌱 I’m currently learning Coding Best Practices, SOLID, OOP, Clean Architecture, System Design, etc
 - ⚡ Fun fact: I love baking pizza, especially during my free time, kneading sure does take away stress
 <!--
