@@ -1,4 +1,4 @@
-<a href="https://bisunajaime.netlify.app" target="_blank">
+<a href="https://bisunajaime.github.io" target="_blank">
   <img align="center" src="/footer.png" />
 </a>
 <p></p>
